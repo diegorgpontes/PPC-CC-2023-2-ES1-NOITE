@@ -1,4 +1,4 @@
-<style>body {text-align: justify}</style>
+
 
 ### 2. Descrição Geral
 

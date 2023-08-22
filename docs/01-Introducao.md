@@ -1,5 +1,3 @@
-<style>body {text-align: justify}</style>
-
 ## 1.	 Introdução
 
 ### 1.1	 Objetivo deste documento

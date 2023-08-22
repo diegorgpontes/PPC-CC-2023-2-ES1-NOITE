@@ -1,5 +1,3 @@
-<style>body {text-align: justify}</style>
-
 ### Projeto da Disciplina de Engenharia de Software
 
 # TÍTULO DO PROJETO
